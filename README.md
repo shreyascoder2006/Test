@@ -25,8 +25,13 @@ If you are developing a production application, we recommend using TypeScript wi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shreyascoder2006/Test/tree/main/0002-add-two-numbers/) | Medium |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/shreyascoder2006/Test/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shreyascoder2006/Test/tree/main/0002-add-two-numbers/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/shreyascoder2006/Test/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 <!---LeetCode Topics End-->
