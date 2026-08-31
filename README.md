@@ -34,4 +34,20 @@ If you are developing a production application, we recommend using TypeScript wi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shreyascoder2006/Test/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
