@@ -21,6 +21,7 @@ If you are developing a production application, we recommend using TypeScript wi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shreyascoder2006/Test/tree/main/0002-add-two-numbers/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shreyascoder2006/Test/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
