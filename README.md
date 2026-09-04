@@ -26,6 +26,7 @@ If you are developing a production application, we recommend using TypeScript wi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shreyascoder2006/Test/tree/main/0002-add-two-numbers/) | Medium |
+| [0012-integer-to-roman](https://github.com/shreyascoder2006/Test/tree/main/0012-integer-to-roman/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shreyascoder2006/Test/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -42,10 +43,12 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/shreyascoder2006/Test/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/shreyascoder2006/Test/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
