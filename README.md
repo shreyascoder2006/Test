@@ -40,6 +40,7 @@ If you are developing a production application, we recommend using TypeScript wi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/shreyascoder2006/Test/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +55,8 @@ If you are developing a production application, we recommend using TypeScript wi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/shreyascoder2006/Test/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
