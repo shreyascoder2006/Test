@@ -35,11 +35,13 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyascoder2006/Test/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shreyascoder2006/Test/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyascoder2006/Test/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/shreyascoder2006/Test/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
