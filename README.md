@@ -65,4 +65,5 @@ If you are developing a production application, we recommend using TypeScript wi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0620-not-boring-movies](https://github.com/shreyascoder2006/Test/tree/main/0620-not-boring-movies/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/shreyascoder2006/Test/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 <!---LeetCode Topics End-->
