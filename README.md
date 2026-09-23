@@ -64,6 +64,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/shreyascoder2006/Test/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/shreyascoder2006/Test/tree/main/0620-not-boring-movies/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/shreyascoder2006/Test/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 <!---LeetCode Topics End-->
