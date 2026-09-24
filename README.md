@@ -28,6 +28,7 @@ If you are developing a production application, we recommend using TypeScript wi
 | [0002-add-two-numbers](https://github.com/shreyascoder2006/Test/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/shreyascoder2006/Test/tree/main/0012-integer-to-roman/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shreyascoder2006/Test/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreyascoder2006/Test/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ If you are developing a production application, we recommend using TypeScript wi
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyascoder2006/Test/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreyascoder2006/Test/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/shreyascoder2006/Test/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
