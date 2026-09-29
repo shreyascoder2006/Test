@@ -70,4 +70,5 @@ If you are developing a production application, we recommend using TypeScript wi
 | [0620-not-boring-movies](https://github.com/shreyascoder2006/Test/tree/main/0620-not-boring-movies/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/shreyascoder2006/Test/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1907-count-salary-categories](https://github.com/shreyascoder2006/Test/tree/main/1907-count-salary-categories/) | Medium |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shreyascoder2006/Test/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
