@@ -54,6 +54,7 @@ If you are developing a production application, we recommend using TypeScript wi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/shreyascoder2006/Test/tree/main/0012-integer-to-roman/) | Medium |
+| [0022-generate-parentheses](https://github.com/shreyascoder2006/Test/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -72,4 +73,16 @@ If you are developing a production application, we recommend using TypeScript wi
 | [1517-find-users-with-valid-e-mails](https://github.com/shreyascoder2006/Test/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1907-count-salary-categories](https://github.com/shreyascoder2006/Test/tree/main/1907-count-salary-categories/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shreyascoder2006/Test/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shreyascoder2006/Test/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shreyascoder2006/Test/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shreyascoder2006/Test/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
