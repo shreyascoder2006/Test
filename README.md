@@ -56,6 +56,7 @@ If you are developing a production application, we recommend using TypeScript wi
 | [0012-integer-to-roman](https://github.com/shreyascoder2006/Test/tree/main/0012-integer-to-roman/) | Medium |
 | [0022-generate-parentheses](https://github.com/shreyascoder2006/Test/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/shreyascoder2006/Test/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,9 @@ If you are developing a production application, we recommend using TypeScript wi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/shreyascoder2006/Test/tree/main/0022-generate-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/shreyascoder2006/Test/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shreyascoder2006/Test/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
