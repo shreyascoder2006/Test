@@ -43,6 +43,7 @@ If you are developing a production application, we recommend using TypeScript wi
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/shreyascoder2006/Test/tree/main/0049-group-anagrams/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyascoder2006/Test/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shreyascoder2006/Test/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreyascoder2006/Test/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/shreyascoder2006/Test/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
